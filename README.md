@@ -17,7 +17,7 @@ Este portifólio destina-se a fins de aprendizado e demonstra minha experiência
 * Fonte de Dados: dados de receitas e despesas pessoais
 
 ### [3. People Analytics](https://lookerstudio.google.com/reporting/f2e8ca7e-e860-44eb-884e-2e9a0cb851c0/page/E4JED?s=lIeXXo_JQHM)
-#### Desenvolvimento de dashboard para análise contratações feitas pelo setor de Recursos Humanos
+#### Desenvolvimento de dashboard para análise de contratações feitas pelo setor de Recursos Humanos
 
 <p align = "center">
   <img src = "Dashboard PBI - People Analytics/People Analytics - Power BI.gif">
