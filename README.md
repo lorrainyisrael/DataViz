@@ -20,4 +20,4 @@ Este portifólio destina-se a fins de aprendizado e demonstra minha experiência
 #### Desenvolvimento de dashboard para análise contratações feitas pelo setor de Recursos Humanos
 * Acesse o [dashboard](https://app.powerbi.com/groups/me/reports/5ac38f07-3402-4752-8d1d-9bfb94ef0179?ctid=b93f82b0-6b11-474f-a5a4-79a62404544c&pbi_source=linkShare&bookmarkGuid=b5ab36a3-bf33-4619-b97d-5e8a437b51d2)
 * Ferramentas utilizadas: Microsoft Power Bi
-* Fonte de Dados: dados ficticios fornecidos pela [Xperiun](https://datastudio.google.com/s/vqqyQUkAngA)
+* Fonte de Dados: dados ficticios fornecidos pela [Xperiun](https://datastudio.google.com/s/vqqyQUkAngA) para fins de estudo de caso
