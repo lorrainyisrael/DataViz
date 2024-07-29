@@ -8,7 +8,7 @@ Esse dashboard foi criado ao longo das 6 semanas do Bootcamp promovido pela [Xpe
 O bootcamp consistiu em desafios lançados a cada 7 ou 10 dias, onde o objetivo era criar análises de vendas solicitadas pelo cliente (HPN). Foram um total de 5 missões entregues.
 
 * Contexto: A [Heavy Power Nutrition](https://heavypowernutrition.com/) é uma multinacional real do segmento de suplementos alimentares fundada pelos irmãos Matt e Keaven Windsor em 2005. A matriz da empresa está sediada em Seattle, com centros de distribuição espalhados em outras regiões dos EUA, além de Canadá, França, Alemanha, Reino Unido e Brasil. Apesar da HPN ser uma empresa real, os dados utilizados nesse projeto são ficitios e não refletem os resultados reais da mesma.
-* Acesse o [dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWRjM2FlYjMtZjE0Yi00ZWE5LWI3MmMtYmQ4M2EyOWZiN2IwIiwidCI6ImI5M2Y4MmIwLTZiMTEtNDc0Zi1hNWE0LTc5YTYyNDA0NTQ0YyIsImMiOjl9)
+* Acesse o [dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2Q4YWJiY2QtNDg3Zi00MmZmLWI3MjAtNmRmZWQ2N2UzODQwIiwidCI6ImI5M2Y4MmIwLTZiMTEtNDc0Zi1hNWE0LTc5YTYyNDA0NTQ0YyIsImMiOjl9)
 * Ferramenta utilizada: Microsoft Power BI
 * Fonte de Dados: arquivos com dados ficticios fornecidos pela Xperium
 * Esses são os conjuntos de dados [1](./Especies_Ameacadas_Brasil/enriquecimento_de_base.csv), [2](./Especies_Ameacadas_Brasil/fauna_ameacada_2022.csv) e [3](./Especies_Ameacadas_Brasil/flora_ameacada_2022.csv) utilizados
