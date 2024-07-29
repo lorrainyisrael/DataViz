@@ -2,7 +2,7 @@
 Este portifólio destina-se a fins de aprendizado e demonstra minha experiência em Visualização de Dados.
 
 ## Conteúdo
-### [4. Sales Analytics - Heavy Power Nutrition](./Especies_Ameacadas_Brasil)
+### [4. Sales Analytics - Heavy Power Nutrition](https://github.com/lorrainyisrael/DataViz/tree/main/Bootcamp%20Xperiun%20-%20HPN%20Sales%20Analytics)
 #### Análise de dados de vendas da empresa Heavy Power Nutrition - HPN
 Esse dashboard foi criado ao longo das 6 semanas do Bootcamp promovido pela [Xperiun](https://www.linkedin.com/school/xperiun/), tendo início em 11/06/24 e fim em 30/07/24. 
 O bootcamp consistiu em desafios lançados a cada 7 ou 10 dias, onde o objetivo era criar análises de vendas solicitadas pelo cliente (HPN). Foram um total de 5 missões entregues.
@@ -17,7 +17,7 @@ O bootcamp consistiu em desafios lançados a cada 7 ou 10 dias, onde o objetivo 
 * Fonte de Dados: [arquivos](https://github.com/lorrainyisrael/DataViz/tree/main/Bootcamp%20Xperiun%20-%20HPN%20Sales%20Analytics/bases) com dados ficticios fornecidos pela Xperium
 * Padrão de cores: paleta cores da própria HPN definido no [BrandBook](https://github.com/lorrainyisrael/DataViz/blob/main/Bootcamp%20Xperiun%20-%20HPN%20Sales%20Analytics/layout/BrandBook.pdf)
 
-### [3. People Analytics](https://lookerstudio.google.com/reporting/f2e8ca7e-e860-44eb-884e-2e9a0cb851c0/page/E4JED?s=lIeXXo_JQHM)
+### [3. People Analytics](https://github.com/lorrainyisrael/DataViz/tree/main/Dashboard%20PBI%20-%20People%20Analytics)
 #### Desenvolvimento de dashboard para análise de contratações feitas pelo setor de Recursos Humanos
 
 <p align = "center">
