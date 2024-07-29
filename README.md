@@ -7,6 +7,10 @@ Este portifólio destina-se a fins de aprendizado e demonstra minha experiência
 Esse dashboard foi criado ao longo das 6 semanas do Bootcamp promovido pela [Xperiun](https://www.linkedin.com/school/xperiun/), tendo início em 11/06/24 e fim em 30/07/24. 
 O bootcamp consistiu em desafios lançados a cada 7 ou 10 dias, onde o objetivo era criar análises de vendas solicitadas pelo cliente (HPN). Foram um total de 5 missões entregues.
 
+<p align = "center">
+  <img src = "Bootcamp Xperiun - HPN Sales Analytics/HPN - Sales Analytics.gif">
+</p>
+
 * Contexto: A [Heavy Power Nutrition](https://heavypowernutrition.com/) é uma multinacional real do segmento de suplementos alimentares fundada pelos irmãos Matt e Keaven Windsor em 2005. A matriz da empresa está sediada em Seattle, com centros de distribuição espalhados em outras regiões dos EUA, além de Canadá, França, Alemanha, Reino Unido e Brasil. Apesar da HPN ser uma empresa real, os dados utilizados nesse projeto são ficitios e não refletem os resultados reais da mesma.
 * Acesse o [dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2Q4YWJiY2QtNDg3Zi00MmZmLWI3MjAtNmRmZWQ2N2UzODQwIiwidCI6ImI5M2Y4MmIwLTZiMTEtNDc0Zi1hNWE0LTc5YTYyNDA0NTQ0YyIsImMiOjl9)
 * Ferramenta utilizada: Microsoft Power BI
