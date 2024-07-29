@@ -8,14 +8,14 @@ Esse dashboard foi criado ao longo das 6 semanas do Bootcamp promovido pela [Xpe
 O bootcamp consistiu em desafios lançados a cada 7 ou 10 dias, onde o objetivo era criar análises de vendas solicitadas pelo cliente (HPN). Foram um total de 5 missões entregues.
 
 <p align = "center">
-  <img src = "Bootcamp Xperiun - HPN Sales Analytics/HPN - Sales Analytics.gif">
+  <img src = "Bootcamp Xperiun - HPN Sales Analytics/Sales Analytics.gif">
 </p>
 
 * Contexto: A [Heavy Power Nutrition](https://heavypowernutrition.com/) é uma multinacional real do segmento de suplementos alimentares fundada pelos irmãos Matt e Keaven Windsor em 2005. A matriz da empresa está sediada em Seattle, com centros de distribuição espalhados em outras regiões dos EUA, além de Canadá, França, Alemanha, Reino Unido e Brasil. Apesar da HPN ser uma empresa real, os dados utilizados nesse projeto são ficitios e não refletem os resultados reais da mesma.
 * Acesse o [dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2Q4YWJiY2QtNDg3Zi00MmZmLWI3MjAtNmRmZWQ2N2UzODQwIiwidCI6ImI5M2Y4MmIwLTZiMTEtNDc0Zi1hNWE0LTc5YTYyNDA0NTQ0YyIsImMiOjl9)
 * Ferramenta utilizada: Microsoft Power BI
-* Fonte de Dados: [arquivos](./Bootcamp Xperiun - HPN Sales Analytics/bases) com dados ficticios fornecidos pela Xperium
-* Padrão de cores: paleta cores da própria HPN definido no [BrandBook](./Bootcamp Xperiun - HPN Sales Analytics/layout/BrandBook.pdf)
+* Fonte de Dados: [arquivos](https://github.com/lorrainyisrael/DataViz/tree/main/Bootcamp%20Xperiun%20-%20HPN%20Sales%20Analytics/bases) com dados ficticios fornecidos pela Xperium
+* Padrão de cores: paleta cores da própria HPN definido no [BrandBook](https://github.com/lorrainyisrael/DataViz/blob/main/Bootcamp%20Xperiun%20-%20HPN%20Sales%20Analytics/layout/BrandBook.pdf)
 
 ### [3. People Analytics](https://lookerstudio.google.com/reporting/f2e8ca7e-e860-44eb-884e-2e9a0cb851c0/page/E4JED?s=lIeXXo_JQHM)
 #### Desenvolvimento de dashboard para análise de contratações feitas pelo setor de Recursos Humanos
